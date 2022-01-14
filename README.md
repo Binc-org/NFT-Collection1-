@@ -1,2 +1,2 @@
 # NFT-Collection1-
-Collection1 of NFTs of cat 
+Collection1 of NFTs of cats 
